@@ -1,0 +1,2 @@
+G:\My Drive\Projects\C#\CheckForIGMP\CheckForIGMP\obj\Debug\CheckForIGMP.csproj.AssemblyReference.cache
+G:\My Drive\Projects\C#\CheckForIGMP\CheckForIGMP\obj\Debug\CheckForIGMP.csproj.CoreCompileInputs.cache
